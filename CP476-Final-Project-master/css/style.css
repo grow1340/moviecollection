@@ -1,0 +1,22 @@
+body {
+    font-family: 'verdana', 'Times New Roman', Times, serif;
+    font-weight: 250;
+}
+  
+#Submit_Button {
+    margin-top: 20;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+.btn {
+    border-radius: 12px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'verdana', 'Times New Roman', Times, serif;
+    font-weight: 750;
+}
